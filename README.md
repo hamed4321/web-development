@@ -6,7 +6,7 @@ This project has been split into different branched based on which language they
 This can simply be run with a browser of your choice, simply open the HTML files with your preferred browser,
 make sure to include the relevant CSS in the same folder as its required HTML.
 # Authors
-**Hamed Bello** - *Full Work* - (https://github.com/hamed4321 "Hamed Bello").
+**Hamed Bello** - *Full Work* - [Hamed Bello](https://github.com/hamed4321)
 # Acknowledgements
 * Friends
 * Family
