@@ -1,0 +1,31 @@
+td{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+table{
+  margin: auto;
+}
+.middle{
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.horz{
+  border-top: 1px solid black;
+  border-bottom:1px solid black;
+}
+.top{
+  border-bottom: 1px solid black;
+}
+.bottom{
+  border-bottom: 1px solid black;
+}
+#special{
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+h1{
+  margin: auto;
+  text-align: center;
+}
